@@ -26,7 +26,10 @@
 
 ## 截图
 
-（待补充）
+<p>
+  <img src="docs/screenshot_1.png" width="280" alt="主界面" />
+  <img src="docs/screenshot_2.png" width="280" alt="填充与微调" />
+</p>
 
 ## 下载
 

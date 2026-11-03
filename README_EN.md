@@ -26,7 +26,10 @@ Fill your device storage down to a configurable free-space target with one tap â
 
 ## Screenshots
 
-(TODO)
+<p>
+  <img src="docs/screenshot_1.png" width="280" alt="Main screen" />
+  <img src="docs/screenshot_2.png" width="280" alt="Filling & fine-tuning" />
+</p>
 
 ## Download
 
