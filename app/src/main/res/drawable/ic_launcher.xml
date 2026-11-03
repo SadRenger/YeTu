@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 简约兔头图标：圆底 + 双耳 + 脸 -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 背景圆 -->
+    <path
+        android:fillColor="#C96F2E"
+        android:pathData="M54,8a46,46 0 1,1 -0.01,0z" />
+    <!-- 左耳 -->
+    <path
+        android:fillColor="#FAF6F0"
+        android:pathData="M41,52c-5,-14 -4,-26 1,-28c5,-2 9,9 10,24z" />
+    <!-- 右耳 -->
+    <path
+        android:fillColor="#FAF6F0"
+        android:pathData="M67,52c5,-14 4,-26 -1,-28c-5,-2 -9,9 -10,24z" />
+    <!-- 脸 -->
+    <path
+        android:fillColor="#FAF6F0"
+        android:pathData="M54,50a17,16 0 1,1 -0.01,0z" />
+    <!-- 左眼 -->
+    <path
+        android:fillColor="#2B2320"
+        android:pathData="M47,64a2.4,2.8 0 1,1 -0.01,0z" />
+    <!-- 右眼 -->
+    <path
+        android:fillColor="#2B2320"
+        android:pathData="M61,64a2.4,2.8 0 1,1 -0.01,0z" />
+    <!-- 鼻 -->
+    <path
+        android:fillColor="#2B2320"
+        android:pathData="M54,72l-2.4,2.6l4.8,0z" />
+</vector>
